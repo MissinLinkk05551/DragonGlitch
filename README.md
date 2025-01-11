@@ -10,3 +10,6 @@ Clear, readable fonts: A monospace font with good legibility is crucial for any 
 Overall impression:
 
 Dragon Glitch aims to create an immersive and engaging coding environment. The combination of dark, calming backgrounds with bright, eye-catching accents is both stylish and functional. The potential addition of glitch effects further enhances the theme's unique identity, appealing to those who like a touch of the futuristic and unconventional.
+
+
+![alt text](image.png)
