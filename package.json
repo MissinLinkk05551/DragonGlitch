@@ -2,12 +2,12 @@
   "name": "DragonGlitch",
   "displayName": "DragonGlitch ",
   "description": "Dragon Glitch is a dark theme with vibrant accents, designed to be visually appealing while providing a comfortable coding experience.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "NRevia05HP",
-  "author":{
+  "author": {
     "name": "Frank Revia"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/MissinLinkk05551/DragonGlitch.git"
   },
